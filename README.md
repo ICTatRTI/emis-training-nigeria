@@ -1,6 +1,6 @@
 ## EMIS Training
 
-This training is to support the Nigerian Education Data Survey (NEDS) 2010 initiative and is intended for the the Nigeria Education Management Information System (NEMIS) technical team, a USAID funded project.  The first four days cover SQL basics, the last three cover using EMIS toolboox and the data migration tool.
+This training is to support the Nigerian Education Data Survey (NEDS) 2010 initiative. The intended audience is technical team members of the the Nigeria Education Management Information System (NEMIS).  The first four days cover SQL basics, the last three cover using EMIS toolboox.
 
 
 #### Required for all training participants:
