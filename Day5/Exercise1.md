@@ -9,7 +9,7 @@ Create a model and a mapping with the following details:
 * Data collected in 2010 and 2011
 * Hierarchy consists of State and LGA
 * Download the data file population.xls
-* Configure as data sources the SQL server and the Excel [population file](population.xls).
+* Configure as data sources the SQL server and the Excel [population file](population.xls?raw=true).
 * Define all mappings
 
 Run the import.
